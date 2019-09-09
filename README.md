@@ -8,3 +8,4 @@ is it my first attempt to make astrocraft. Veeeery old.
 function player.lua
 ```
 you are free to modify all the files and images, but please, please, give the credits to Tema_j0t4 or Fruitydev Team :D
+#there some silly names i put just for fun LOL
